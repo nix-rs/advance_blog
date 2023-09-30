@@ -1,2 +1,7 @@
 db.sqlite3
 .env
+htmlcov/
+.coverage
+*.md
+__pycache__
+
